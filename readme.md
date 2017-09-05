@@ -4,6 +4,6 @@ Back in 2011, wrote this small little frotran program to write out patran neutra
 
 This was lying on my blog and it recently needed some modification and a active testcase, so thought it might be useful to have it on github.
 
-![image](https://github.com/sukhbinder/PatranMeshWriter/blob/master/sphere.png)
+![image](https://github.com/sukhbinder/PatranMeshWriter/blob/master/Sphere.png)
 
 
